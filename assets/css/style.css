@@ -492,8 +492,8 @@ td:last-child {
 
 .form-container {
   background: #fff;
-  width: 500px;
-  height: 896px;
+  width: 257px;
+  height: auto;
   position: relative;
   text-align: center;
   padding: 20px 0;
